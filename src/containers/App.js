@@ -13,7 +13,7 @@ function App() {
  //   }
 //  }
 const [robots, setRobots] = useState([]);
-const [searchfield, setSearchfield] = useState('x')
+const [searchfield, setSearchfield] = useState('')
 
 //componentDidMount() {
 //    fetch('https://jsonplaceholder.typicode.com/users')
